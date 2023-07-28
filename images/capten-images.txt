@@ -41,3 +41,4 @@ ghcr.io/banzaicloud/bank-vaults:1.19.0
 prom/statsd-exporter:latest
 velero/velero:v1.11.0
 yandex/clickhouse-server:19.14
+busybox:1.35
